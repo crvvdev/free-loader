@@ -1,0 +1,9 @@
+[submodule "blackbone"]
+	path = blackbone
+	url = https://github.com/DarthTon/Blackbone.git
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "dxsdk"]
+	path = dxsdk
+	url = https://github.com/MarilynDafa/Microsoft-DirectX-SDK-June-2010-.git
